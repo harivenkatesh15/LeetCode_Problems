@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2288-count-operations-to-obtain-zero](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Stack
