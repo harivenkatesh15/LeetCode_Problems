@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2211-count-collisions-on-a-road) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3606-coupon-code-validator](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3606-coupon-code-validator) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2483-minimum-penalty-for-a-shop](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2625-increment-submatrices-by-one](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2625-increment-submatrices-by-one) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
