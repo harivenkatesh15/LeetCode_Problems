@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2288-count-operations-to-obtain-zero) |
+| [2402-meeting-rooms-iii](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2402-meeting-rooms-iii) |
 | [3433-count-mentions-per-user](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3433-count-mentions-per-user) |
 ## Array
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2402-meeting-rooms-iii](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2402-meeting-rooms-iii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2402-meeting-rooms-iii](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2402-meeting-rooms-iii) |
 | [3583-count-special-triplets](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3623-count-number-of-trapezoids-i) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2092-find-all-people-with-secret](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2402-meeting-rooms-iii](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2402-meeting-rooms-iii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3433-count-mentions-per-user) |
@@ -230,4 +234,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2054-two-best-non-overlapping-events](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2054-two-best-non-overlapping-events) |
+| [2402-meeting-rooms-iii](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2402-meeting-rooms-iii) |
 <!---LeetCode Topics End-->
