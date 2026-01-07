@@ -3,10 +3,7 @@ class Solution {
 
         int m = matrix.length;
         int n = matrix[0].length;
-
         boolean[][] arr = new boolean[m][n];
-
-        // Step 1: mark zero positions
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
                 if (matrix[i][j] == 0) {
@@ -15,17 +12,12 @@ class Solution {
             }
         }
 
-        // Step 2: zero rows & columns
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
                 if (arr[i][j]) {
-
-                    // zero row
                     for (int col = 0; col < n; col++) {
                         matrix[i][col] = 0;
                     }
-
-                    // zero column
                     for (int row = 0; row < m; row++) {
                         matrix[row][j] = 0;
                     }
