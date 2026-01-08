@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2288-count-operations-to-obtain-zero](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2288-count-operations-to-obtain-zero) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3433-count-mentions-per-user](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3433-count-mentions-per-user) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2402-meeting-rooms-iii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2625-increment-submatrices-by-one](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3074-apple-redistribution-into-boxes](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3074-apple-redistribution-into-boxes) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2402-meeting-rooms-iii) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3583-count-special-triplets](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3623-count-number-of-trapezoids-i) |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Counting
 |  |
