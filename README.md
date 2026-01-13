@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3433-count-mentions-per-user](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3433-count-mentions-per-user) |
+| [3453-separate-squares-i](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3453-separate-squares-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2141-maximum-running-time-of-n-computers) |
+| [3453-separate-squares-i](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3453-separate-squares-i) |
 ## Geometry
 |  |
 | ------- |
