@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0840-magic-squares-in-grid](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1266-minimum-time-visiting-all-points](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1266-minimum-time-visiting-all-points) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0474-ones-and-zeroes](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0485-max-consecutive-ones) |
 | [0759-set-intersection-size-at-least-two](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0759-set-intersection-size-at-least-two) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0073-set-matrix-zeroes) |
+| [0268-missing-number](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0756-pyramid-transition-matrix](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2054-two-best-non-overlapping-events](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2054-two-best-non-overlapping-events) |
@@ -221,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0756-pyramid-transition-matrix](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Tree
@@ -244,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0268-missing-number) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2054-two-best-non-overlapping-events) |
