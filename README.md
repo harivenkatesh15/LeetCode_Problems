@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1470-shuffle-the-array](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1470-shuffle-the-array) |
+| [1895-largest-magic-square](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1895-largest-magic-square) |
 | [1929-concatenation-of-array](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1929-concatenation-of-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1975-maximum-matrix-sum) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1895-largest-magic-square](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1975-maximum-matrix-sum) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1895-largest-magic-square](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1895-largest-magic-square) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2625-increment-submatrices-by-one](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2625-increment-submatrices-by-one) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
