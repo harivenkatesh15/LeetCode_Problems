@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2402-meeting-rooms-iii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1015-smallest-integer-divisible-by-k) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2402-meeting-rooms-iii) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3583-count-special-triplets](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3583-count-special-triplets) |
 ## Matrix
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2402-meeting-rooms-iii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2943-maximize-area-of-square-hole-in-grid) |
