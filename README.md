@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3433-count-mentions-per-user](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3433-count-mentions-per-user) |
 | [3453-separate-squares-i](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3454-separate-squares-ii) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0756-pyramid-transition-matrix](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1018-binary-prefix-divisible-by-5) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Tree
 |  |
 | ------- |
