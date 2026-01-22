@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0840-magic-squares-in-grid](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1137-n-th-tribonacci-number](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1137-n-th-tribonacci-number](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -347,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3454-separate-squares-ii) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
