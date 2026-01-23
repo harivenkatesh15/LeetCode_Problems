@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0759-set-intersection-size-at-least-two](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0759-set-intersection-size-at-least-two) |
 | [0840-magic-squares-in-grid](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0840-magic-squares-in-grid) |
+| [0896-monotonic-array](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0896-monotonic-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
