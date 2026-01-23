@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2402-meeting-rooms-iii](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2402-meeting-rooms-iii) |
 | [3433-count-mentions-per-user](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3433-count-mentions-per-user) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Array
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3433-count-mentions-per-user) |
 | [3453-separate-squares-i](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3454-separate-squares-ii) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2402-meeting-rooms-iii) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3583-count-special-triplets](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3623-count-number-of-trapezoids-i) |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2054-two-best-non-overlapping-events](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2402-meeting-rooms-iii) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -367,4 +371,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1137-n-th-tribonacci-number) |
+## Linked List
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 <!---LeetCode Topics End-->
