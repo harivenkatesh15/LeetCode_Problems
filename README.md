@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0485-max-consecutive-ones) |
 | [0746-min-cost-climbing-stairs](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0746-min-cost-climbing-stairs) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0756-pyramid-transition-matrix](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0759-set-intersection-size-at-least-two](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0759-set-intersection-size-at-least-two) |
 | [0977-squares-of-a-sorted-array](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1200-minimum-absolute-difference) |
