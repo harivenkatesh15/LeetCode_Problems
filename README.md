@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0136-single-number) |
+| [0238-product-of-array-except-self](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0474-ones-and-zeroes) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1895-largest-magic-square) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2483-minimum-penalty-for-a-shop) |
