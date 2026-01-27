@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2402-meeting-rooms-iii) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Backtracking
 |  |
 | ------- |
@@ -404,4 +405,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Shortest Path
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
