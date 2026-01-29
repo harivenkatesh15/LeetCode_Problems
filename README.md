@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0072-edit-distance) |
 | [0392-is-subsequence](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0516-longest-palindromic-subsequence) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0198-house-robber) |
