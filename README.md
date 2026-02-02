@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0072-edit-distance](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0072-edit-distance) |
 | [0392-is-subsequence](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 | [0392-is-subsequence](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0443-string-compression) |
 | [0845-longest-mountain-in-array](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
