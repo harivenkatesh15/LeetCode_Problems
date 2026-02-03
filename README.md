@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0149-max-points-on-a-line) |
 | [0268-missing-number](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0840-magic-squares-in-grid](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0840-magic-squares-in-grid) |
+| [0939-minimum-area-rectangle](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0939-minimum-area-rectangle) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1137-n-th-tribonacci-number](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1266-minimum-time-visiting-all-points) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0845-longest-mountain-in-array) |
 | [0848-shifting-letters](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0848-shifting-letters) |
 | [0896-monotonic-array](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0896-monotonic-array) |
+| [0939-minimum-area-rectangle](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0939-minimum-area-rectangle) |
 | [0944-delete-columns-to-make-sorted](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0939-minimum-area-rectangle](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0939-minimum-area-rectangle) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0759-set-intersection-size-at-least-two](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0759-set-intersection-size-at-least-two) |
+| [0939-minimum-area-rectangle](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0939-minimum-area-rectangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -349,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0149-max-points-on-a-line) |
+| [0939-minimum-area-rectangle](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0939-minimum-area-rectangle) |
 | [1266-minimum-time-visiting-all-points](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3623-count-number-of-trapezoids-i](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3623-count-number-of-trapezoids-i) |
