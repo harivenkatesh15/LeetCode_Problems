@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1002-find-common-characters](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1002-find-common-characters) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1200-minimum-absolute-difference](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0939-minimum-area-rectangle](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0939-minimum-area-rectangle) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1002-find-common-characters](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1002-find-common-characters) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1002-find-common-characters](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1002-find-common-characters) |
 | [1143-longest-common-subsequence](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1143-longest-common-subsequence) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
