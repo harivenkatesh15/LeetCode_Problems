@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0128-longest-consecutive-sequence) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0151-reverse-words-in-a-string) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
