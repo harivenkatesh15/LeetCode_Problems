@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0066-plus-one) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0149-max-points-on-a-line](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0149-max-points-on-a-line) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0072-edit-distance) |
 | [0392-is-subsequence](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0443-string-compression) |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
