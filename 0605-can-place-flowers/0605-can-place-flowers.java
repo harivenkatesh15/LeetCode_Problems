@@ -14,8 +14,8 @@ class Solution {
                 arr[i] =1;
                 n--;
             }
-            if(n==0){
-                break;
+            if(n<=0){
+                return true;
             }
         }
         if(nn>=2 &&arr[nn-1]==0 && arr[nn-2]!=1 && n!=0){
