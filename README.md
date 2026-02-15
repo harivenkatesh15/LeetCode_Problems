@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0149-max-points-on-a-line) |
 | [0268-missing-number](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0268-missing-number) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1929-concatenation-of-array) |
 | [2211-count-collisions-on-a-road](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0392-is-subsequence) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0338-counting-bits) |
