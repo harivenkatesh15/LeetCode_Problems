@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0338-counting-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0756-pyramid-transition-matrix) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0190-reverse-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3721-longest-balanced-subarray-ii) |
