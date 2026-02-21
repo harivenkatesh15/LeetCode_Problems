@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0149-max-points-on-a-line) |
 | [0268-missing-number](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0268-missing-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0840-magic-squares-in-grid) |
 | [0939-minimum-area-rectangle](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0939-minimum-area-rectangle) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0756-pyramid-transition-matrix) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Tree
