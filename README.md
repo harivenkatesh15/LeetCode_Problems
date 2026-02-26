@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0067-add-binary) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1929-concatenation-of-array](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1929-concatenation-of-array) |
 | [2211-count-collisions-on-a-road](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1002-find-common-characters](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1002-find-common-characters) |
 | [1143-longest-common-subsequence](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1143-longest-common-subsequence) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-binary-gap](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Tree
