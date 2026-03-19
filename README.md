@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3379-transformed-array) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2625-increment-submatrices-by-one) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Prefix Sum
 |  |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3714-longest-balanced-substring-ii](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3714-longest-balanced-substring-ii) |
