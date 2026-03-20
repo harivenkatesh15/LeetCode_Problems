@@ -624,4 +624,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1622-fancy-sequence) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
