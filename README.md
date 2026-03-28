@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2402-meeting-rooms-iii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2573-find-the-string-with-lcp](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2573-find-the-string-with-lcp) |
 | [2625-increment-submatrices-by-one](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2906-construct-product-matrix](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2906-construct-product-matrix) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1975-maximum-matrix-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2573-find-the-string-with-lcp](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2573-find-the-string-with-lcp) |
 | [3074-apple-redistribution-into-boxes](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2211-count-collisions-on-a-road) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2573-find-the-string-with-lcp](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2573-find-the-string-with-lcp) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2573-find-the-string-with-lcp](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2573-find-the-string-with-lcp) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -339,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1975-maximum-matrix-sum) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2573-find-the-string-with-lcp](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2573-find-the-string-with-lcp) |
 | [2625-increment-submatrices-by-one](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2625-increment-submatrices-by-one) |
 | [2906-construct-product-matrix](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -611,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0128-longest-consecutive-sequence) |
+| [2573-find-the-string-with-lcp](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Divide and Conquer
 |  |
