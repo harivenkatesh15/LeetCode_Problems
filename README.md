@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3606-coupon-code-validator](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3606-coupon-code-validator) |
@@ -663,4 +665,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1757-recyclable-and-low-fat-products) |
+## String Matching
+|  |
+| ------- |
+| [3474-lexicographically-smallest-generated-string](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3474-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->
