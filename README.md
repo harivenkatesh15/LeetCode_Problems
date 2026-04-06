@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0840-magic-squares-in-grid) |
 | [0845-longest-mountain-in-array](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0845-longest-mountain-in-array) |
 | [0848-shifting-letters](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0848-shifting-letters) |
+| [0874-walking-robot-simulation](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0874-walking-robot-simulation) |
 | [0896-monotonic-array](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0896-monotonic-array) |
 | [0939-minimum-area-rectangle](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0939-minimum-area-rectangle) |
 | [0944-delete-columns-to-make-sorted](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0944-delete-columns-to-make-sorted) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0874-walking-robot-simulation](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0874-walking-robot-simulation) |
 | [0939-minimum-area-rectangle](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0939-minimum-area-rectangle) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1002-find-common-characters](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1002-find-common-characters) |
