@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1470-shuffle-the-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1382-balance-a-binary-search-tree) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2092-find-all-people-with-secret) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -642,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0128-longest-consecutive-sequence) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Divide and Conquer
