@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0149-max-points-on-a-line) |
 | [0268-missing-number](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0268-missing-number) |
+| [0396-rotate-function](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0840-magic-squares-in-grid) |
 | [0939-minimum-area-rectangle](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0939-minimum-area-rectangle) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0268-missing-number) |
+| [0396-rotate-function](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0396-rotate-function) |
 | [0417-pacific-atlantic-water-flow](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0474-ones-and-zeroes) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
