@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0761-special-binary-string) |
+| [0796-rotate-string](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0796-rotate-string) |
 | [0848-shifting-letters](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0848-shifting-letters) |
 | [0944-delete-columns-to-make-sorted](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -735,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0796-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Trie
 |  |
