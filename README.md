@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0067-add-binary) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0056-merge-intervals) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0085-maximal-rectangle) |
