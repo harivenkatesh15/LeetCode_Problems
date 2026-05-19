@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2540-minimum-common-value](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2573-find-the-string-with-lcp) |
 | [2615-sum-of-distances](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2615-sum-of-distances) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2402-meeting-rooms-iii) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2540-minimum-common-value](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2784-check-if-array-is-good) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2540-minimum-common-value](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2540-minimum-common-value) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3454-separate-squares-ii) |
@@ -611,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2540-minimum-common-value](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/3643-flip-square-submatrix-vertically) |
 ## Brainteaser
 |  |
