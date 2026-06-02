@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0066-plus-one) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0072-edit-distance) |
@@ -731,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0190-reverse-bits) |
 | [0761-special-binary-string](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/harivenkatesh15/LeetCode_Problems/tree/master/1382-balance-a-binary-search-tree) |
